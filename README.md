@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro Henrique Aurélio Martins 
 -  📍 Balneário Rincão/SC
-- 🌱 Estudando Java
+- 🌱 Estudando C#
 - ⚡ Cursando Bacharelado em Sistemas de Informação
 <div align="center">
   <a href="https://github.com/PedroHenriqueAurelioMartinss">
